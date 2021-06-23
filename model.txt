@@ -1,0 +1,15 @@
+digitization - scanning eqipment, selecting curated collection
+file formats - interoperability
+metadata
+data
+big data
+opendata
+OCR
+AI - image recognition, segmetation  
+ML - annotation, image text and patterns recognition 
+IIIF
+LOUD - wikidata
+CC
+InternetArchive
+decentralization
+doi or any persistent identifier
